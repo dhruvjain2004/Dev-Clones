@@ -1,5 +1,5 @@
 THESE ALL ARE THE WEB DEVLOPMENT PROJECTS MADE BY ME !!!
-# dev-clones 🌐✨
+# Dev-clones 🌐✨
 
 ![Dev Clones Banner](https://via.placeholder.com/1000x300?text=dev-clones+%7C+Build+Real+Apps+Clone+By+Clone)
 
